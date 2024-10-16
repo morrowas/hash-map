@@ -1,3 +1,5 @@
+# The following code was provided by the professors of this course.
+# The code written by me (Ashley Morrow) is included in the hash_map_oa.py and hash_map_sc.py files.
 # Course:      CS261 - Data Structures
 # Assignment:  6
 # Description: Provided data structures necessary to complete the assignment.
