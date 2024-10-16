@@ -1,2 +1,2 @@
-# hash-map
-Hash map implementation for Data Structures course
+# HashMap Portfolio Project
+In this project, I implemented two HashMap classes using Python. The two HashMap classes use different methods for collision resolution; the hash_map_oa.py file uses the open addressing with quadratic probing method, while the hash_map_sc.py file implements the chaining method. This project was completed as part of my coursework in Data Structures at Oregon State University. 
